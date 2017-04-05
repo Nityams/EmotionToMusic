@@ -19,7 +19,7 @@ if (argKey == '-f' or argKey == '-frontEnd') and (frontEnd =='mixed' or frontEnd
 
     headers = {
         'Content-Type': 'application/json',
-        'Ocp-Apim-Subscription-Key': '3210a492f4864715a4c0cd3902c45db9',
+        'Ocp-Apim-Subscription-Key': 'insertApiKeyHere!!!',
     }
 
     try:
@@ -97,4 +97,4 @@ if (argKey == '-f' or argKey == '-frontEnd') and (frontEnd =='mixed' or frontEnd
             os.system(fileName)
 
 else:
-    print '<Nityam> Front End Syntax Error, has to be "-f" or "-frontEnd" followed by "none", "mixed", "cli", "lines" or "blocks" '
+    print 'Front End Syntax Error, has to be "-f" or "-frontEnd" followed by "none", "mixed", "cli", "lines" or "blocks" '
