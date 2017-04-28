@@ -1,0 +1,26 @@
+Metadata-Version: 1.0
+Name: improviser
+Version: 0.8.6.3
+Summary: Automatic music generation software
+Home-page: http://improviser.onderstekop.nl/
+Author: Bart Spaans
+Author-email: onderstekop@gmail.com
+License: UNKNOWN
+Description: Experiments in musical content generation.
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Environment :: X11 Applications :: Qt
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Environment :: MacOS X
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Artistic Software
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Topic :: Multimedia :: Sound/Audio :: MIDI
+Classifier: Topic :: Multimedia :: Sound/Audio :: Editors
